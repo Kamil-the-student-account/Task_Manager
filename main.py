@@ -1,9 +1,7 @@
-from logging import Manager
-
-from Imports import *
+from Dashboard_Class import *
 
 if __name__ == '__main__':
     dashboard = Dashboard()
-    dashboard.manager = TaskManager()
+    dashboard.manager = Task_Manager()
     while True:
         dashboard.run()
