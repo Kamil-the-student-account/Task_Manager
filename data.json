@@ -1,40 +1,16 @@
 {
     "List": [
         {
-            "task_name": null,
-            "priority": null,
-            "status": 0,
-            "id": 0.008707374227682196
-        },
-        {
-            "task_name": "zad2",
+            "task_name": "Example_task1",
             "priority": 3,
             "status": 0,
-            "id": 0.15762146032638424
+            "id": 3546745173985952
         },
         {
-            "task_name": "zad3",
-            "priority": 2,
+            "task_name": "Example_task2",
+            "priority": 4,
             "status": 0,
-            "id": 0.15248042227726988
-        },
-        {
-            "task_name": "zad4",
-            "priority": 3,
-            "status": 0,
-            "id": 6233690.012345939
-        },
-        {
-            "task_name": "chuje",
-            "priority": 2,
-            "status": 0,
-            "id": 8617990664312172.0
-        },
-        {
-            "task_name": "chuje",
-            "priority": 2,
-            "status": 0,
-            "id": 4314256378515303
+            "id": 5432024456817334
         }
     ]
 }
